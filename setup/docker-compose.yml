@@ -75,5 +75,6 @@ services:
         ipv4_address: 192.168.61.15
     dns: 8.8.8.8
     domainname: codespaces.io
+    user: root
     hostname: myJenkins
     restart: always
